@@ -38,9 +38,16 @@ namespace ArithmeticOperators
 
 
             Console.WriteLine("Arithmetic Challenge!");
-            
-            x = 5;
-            y = 2;
+
+            //x = 5;
+            //y = 2;
+
+            Console.WriteLine("Enter No. 1");
+            x = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter No. 2");
+            y = int.Parse(Console.ReadLine());
+
             result = 0;
 
             //Addition
