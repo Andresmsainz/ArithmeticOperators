@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.genruntimeconfig.cache
