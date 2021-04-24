@@ -35,6 +35,35 @@ namespace ArithmeticOperators
             x = 5;
             result = (x % y);
             Console.WriteLine("Remainder: " + x + " % " + y + " = " + result);
+
+
+            Console.WriteLine("Arithmetic Challenge!");
+            
+            x = 5;
+            y = 2;
+            result = 0;
+
+            //Addition
+            result = (x + y);
+            Console.WriteLine("Addition: " + x + " + " + y + " = " + result);
+
+            //Subtraction
+            result = (x - y);
+            Console.WriteLine("Subtraction: " + x + " - " + y + " = " + result);
+
+            //Multiplication
+            result = (x * y);
+            Console.WriteLine("Multiplication: " + x + " * " + y + " = " + result);
+
+            //Division (Decimal)
+            Decimal decimalResult = decimal.Divide(x, y);
+            Console.WriteLine("Division: " + x + " / " + y + " = " + decimalResult);
+
+            //Remainder
+            result = (x % y);
+            Console.WriteLine("REmainder: " + x + " % " + y + " = " + result);
+
+
         }
     }
 }
